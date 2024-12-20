@@ -28,6 +28,8 @@ Evaluation modules for assessing AI recommendation quality through multi-agent a
 - **council_eval_langGraph**: Structured council-style evaluation using LangGraph
 
 
+## Project Video
+[![BuildMate](https://img.youtube.com/vi/0MSzHS4XhjY/maxresdefault.jpg)](https://www.youtube.com/watch?=0MSzHS4XhjY)
 
 
 
