@@ -29,7 +29,7 @@ Evaluation modules for assessing AI recommendation quality through multi-agent a
 
 
 ## Project Video
-[![BuildMate](https://img.youtube.com/vi/0MSzHS4XhjY/maxresdefault.jpg)](https://www.youtube.com/watch?=0MSzHS4XhjY)
+[![BuildMate](https://img.youtube.com/vi/0MSzHS4XhjY/maxresdefault.jpg)](https://www.youtube.com/watch?0MSzHS4XhjY)
 
 
 
