@@ -31,7 +31,7 @@ os.environ["OPENAI_API_KEY"] = "your_api_key_here"
 
 ### Prepare Dataset
 
-You can provide the evaluation examples in `test_data/test.json`.
+You can provide the evaluation examples in `test_data/test_o1_preview_results.json`.
 
 Your custom data should look like
 
@@ -52,7 +52,7 @@ Your custom data should look like
 ]
 ```
 
-The `test.json` file should contain a list of evaluation examples, each with a unique `question_id`, a `question`, and a `response` object. The `response` object should include the responses from different agents for the given question.
+The `test_o1_preview_results.json` file should contain a list of evaluation examples, each with a unique `question_id`, a `question`, and a `response` object. The `response` object should include the responses from different agents for the given question.
 
 ### Configuration
 
