@@ -27,17 +27,7 @@ Evaluation modules for assessing AI recommendation quality through multi-agent a
 - **chateval**: Conversation-based evaluation system
 - **council_eval_langGraph**: Structured council-style evaluation using LangGraph
 
-## Additional Sections (Optional)
 
-You can further enhance your `README.md` by adding the following sections as needed:
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/BuildMate_LLM_Agents_Hackathon.git
-
-# Navigate to the project directory
-cd BuildMate_LLM_Agents_Hackathon
 
 
