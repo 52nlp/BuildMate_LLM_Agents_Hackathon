@@ -42,20 +42,27 @@ A multi-agent system for evaluating PC build recommendations using three special
 # Usage
 
 ## Initialize the system
+```
 input_recommendation_file = './recommendations.json'
 output_report = "evaluation_report.json"
+```
 
 ## Load recommendations
+```
 with open(input_recommendation_file, "r", encoding="utf-8") as f:
     recommendation_data = json.load(f)
-
+```
 ## Choose LLM backend
+```
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-pro", temperature=0.3)
+```
 ## or
+```
 llm = ChatOpenAI(model="gpt-4", temperature=0.3)
-
+```
 ## Create workflow
+```
 app = create_workflow(llm)
-
+```
 
 
